@@ -1,0 +1,16 @@
+﻿BasedOnStyle: Google
+AccessModifierOffset: '-2'
+AlignConsecutiveDeclarations: 'false'
+AllowShortBlocksOnASingleLine: 'Empty'
+AllowShortFunctionsOnASingleLine: 'Empty'
+AllowShortIfStatementsOnASingleLine: 'Never'
+AllowShortLambdasOnASingleLine: 'Inline'
+AllowShortLoopsOnASingleLine: 'false'
+BreakBeforeBraces: Allman
+ColumnLimit: '125'
+IndentWidth: '4'
+MaxEmptyLinesToKeep: '2'
+PointerAlignment: Right
+SortIncludes: 'false'
+SpaceBeforeCpp11BracedList: 'true'
+SpacesBeforeTrailingComments: '4'
