@@ -30,7 +30,7 @@ NamedPipeMaster is a versatile tool for analyzing and monitoring in named pipes.
 
 
 ## Usage
-Put Ring3NamedPipeConsumer.exe, Ring3NamedPipeMonitor.dll, and Ring0NamedPipeFilter.sys in the same directory and run Ring3NamedPipeConsumer.exe.
+Put Ring3NamedPipeConsumer.exe, Ring3NamedPipeMonitor.dll, and Ring0NamedPipeFilter.sys in the same directory and run Ring3NamedPipeConsumer.exe. Watch the [demo video](https://www.youtube.com/watch?v=zUiCErNHgiU) to understand the detailed usage.
 Please ensure that code integrity is disabled to use the features of the minifilter driver.
 
 ```
