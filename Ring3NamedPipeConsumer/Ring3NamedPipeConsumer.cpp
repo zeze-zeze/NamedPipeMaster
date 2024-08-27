@@ -224,9 +224,9 @@ VOID Menu()
         else if (choice == 10)
         {
             detail_help = true;
-            std::cout << "[1] dump database: print all monitored events in the log" << std::endl
+            std::cout << "[1] dump database: print all monitored events in the database" << std::endl
                       << "[2] start monitor mode: keep monitoring named pipe activities until enter is pressed" << std::endl
-                      << "[3] clear database: clear the log" << std::endl
+                      << "[3] clear database: clear the database" << std::endl
                       << "[4] get database info: get some statistics" << std::endl
                       << "[5] filter: get the specified named pipe events" << std::endl
                       << "[6] inject dll: inject Ring3NamedPipeMonitor.dll into a process" << std::endl

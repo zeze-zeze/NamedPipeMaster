@@ -48,9 +48,9 @@ Please ensure that code integrity is disabled to use the features of the minifil
 [11] exit and clean up
 
 NPM-CLI> 10
-[1] dump database: print all monitored events in the log
+[1] dump database: print all monitored events in the database
 [2] start monitor mode: keep monitoring named pipe activities until enter is pressed
-[3] clear database: clear the log
+[3] clear database: clear the database
 [4] get database info: get some statistics
 [5] filter: get the specified named pipe events
 [6] inject dll: inject Ring3NamedPipeMonitor.dll into a process
